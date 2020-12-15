@@ -1,1 +1,1 @@
-worker: python katipash.py $PORT
+worker: python katipash.py --log-file--
