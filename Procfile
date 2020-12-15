@@ -1,1 +1,1 @@
-worker: python katipash.py --log-file--
+worker: python katipash.py --log-file-
